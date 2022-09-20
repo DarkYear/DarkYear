@@ -1,0 +1,16 @@
+print("Subscribers:")
+status = 900*50
+print(status )
+print("Paul:")
+print("Man:")
+Man1 = 30*1000
+print(Man1)
+print("Woman:")
+Woman1 = 45000-30000
+print(Woman1)
+
+
+
+
+
+
